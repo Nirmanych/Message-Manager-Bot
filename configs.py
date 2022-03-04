@@ -18,7 +18,7 @@ class Config(object):
     ASK_FOR_BLOCKED_EXT_LIST = os.environ.get("ASK_FOR_BLOCKED_EXT_LIST",
                                               "Reply to this message with a list of Blocked Extensions. If any file with that extension I will not forward that file!\n\nExample:\nzip\nmkv\ntorrent\ntxt\npy\ncap\nmp4\nmp3\nrar\n\nExtensions should be in lower case!")
     START_TEXT = """
-Hi, This is Massages Manager Bot!
+Hi, This is RedFoxMessages_Bot!
 I can do many things with messages in a Group.
 
 Check /settings !! 
