@@ -1,4 +1,3 @@
-# (c) @AbirHasan2005
 
 from configs import Config
 from database.access_database import mongodb
