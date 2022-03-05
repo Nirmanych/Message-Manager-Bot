@@ -26,3 +26,4 @@ Check /settings !!
     ABOUT_CUSTOM_FILTERS_TEXT = """
 Custom Filters is for deleting only separate type Media Messages or Only Text Messages.
 Like you can set only delete `photo` or `video` or `document` or `audio` or `text` ...
+"""
