@@ -1,13 +1,13 @@
 {
-    "name": "A Telegram Message Manager Bot by @AbirHasan2005.",
-    "description": "A Telegram Message Manager Bot by @AbirHasan2005. This Bot can delete specific type of messages from Group. I specially use for @linux_repo for Automatically deleting Videos.",
+    "name": "RedFoxMessages_Bot",
+    "description": "A Telegram Message Manager Bot. This Bot can delete specific type of messages from Group.",
     "keywords": [
         "telegram",
         "messages",
         "manager",
         "bot"
     ],
-    "repository": "https://github.com/AbirHasan2005/Message-Manager-Bot",
+    "repository": "hhttps://github.com/Nirmanych/Message-Manager-Bot",
     "website": "https://telegram.dog/AbirHasan2005",
     "success_url": "https://t.me/MessageManager_Bot",
     "env": {
